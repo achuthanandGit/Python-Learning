@@ -1,4 +1,8 @@
 # Python-Learning
-This project contains the learning files for python. Beginners.
-Those who are interested to learn can clone this repository.
-Use PyCharm educational verison or pro version to open the learning files.
+
+Python Learning
+    It contains necessary file to learn the basics of Python
+    Use PyCharm to use this folder for better experience
+
+Scripts
+    Scripts to explore different tricks using python libraries
